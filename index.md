@@ -26,15 +26,10 @@ Inflammatory bowel diseases, rheumatoid arthritis, integration of epigenetics an
 
 ## Education
 
-`September 2009 - June 2012`
-__University College Utrecht, Utrecht University, Utrecht, the Netherlands.__
-*BSc Liberal Arts and Sciences*
-* Major: Sciences (Molecular cell biology and Mathematics).
-* Minor: Social sciences (Law).
-
-`September 2011 - December 2011`
-__Chinese University of Hong Kong, Hong Kong S.A.R., China.__
-*Exchange semester.*
+`June 2015 - present`
+__Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands and GlaxoSmithKline, Stevenage, United Kingdom__
+*PhD, program: ['EPIMAC'](https://cordis.europa.eu/project/rcn/193846/factsheet/en)*
+* Field of expertise: Bioinformatic analysis and integration of high-dimensional data.
 
 `September 2012 - April 2015`
 __Utrecht University, Utrecht, the Netherlands.__
@@ -42,35 +37,40 @@ __Utrecht University, Utrecht, the Netherlands.__
 * Major internship at the Department of Prokaryotic Microbiology.
 * Minor internship at the Department of Theoretical Biology and Bioinformatics.
 
-`June 2015 - present`
-__Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands__
-__GlaxoSmithKline, Stevenage, United Kingdom__
-*PhD, program: ['EPIMAC'](https://cordis.europa.eu/project/rcn/193846/factsheet/en)
-* Field of expertise: Bioinformatic analysis and integration of high-dimensional data.
+`September 2011 - December 2011`
+__Chinese University of Hong Kong, Hong Kong S.A.R., China.__
+*Exchange semester.*
+
+`September 2009 - June 2012`
+__University College Utrecht, Utrecht University, Utrecht, the Netherlands.__
+*BSc Liberal Arts and Sciences*
+* Major: Sciences (Molecular cell biology and Mathematics).
+* Minor: Social sciences (Law).
 
 
 ## Awards
 
-`2015`
-Second best poster prize, Epigenomics of Common Diseases, *Wellcome Genome Campus*, Hinxton, Cambridge, United Kingdom.
+`2017`
+Best oral presentation, 5th Science Meeting Clinical Genetics, *Academic Medical Center*, Amsterdam, the Netherlands.
 
 `2016`
 Runner-up poster prize, Epigenomics of Common Diseases, *Wellcome Genome Campus*, Hinxton, Cambridge, United Kingdom.
 
-`2017`
-Best oral presentation, 5th Science Meeting Clinical Genetics, *Academic Medical Center*, Amsterdam, the Netherlands.
+`2015`
+Second best poster prize, Epigenomics of Common Diseases, *Wellcome Genome Campus*, Hinxton, Cambridge, United Kingdom.
 
 
 ## Publications
 
-`2016`
-* __Li Yim AYF__, Duijvis NW, Zhao J, de Jonge WJ, D’Haens GRAM, Mannens MMAM, et al.: Peripheral blood methylation profiling of female Crohn’s disease patients. Clin Epigenetics 2016, 8:65.
-
 `2018`
 * __Li Yim AYF__, de Bruyn JR, Duijvis NW, Sharp C, Ferrero E, de Jonge WJ, et al.: A distinct epigenetic profile distinguishes stenotic from non-inflamed fibroblasts in the ileal mucosa of Crohn’s disease patients. PLoS One 2018.
 
+`2016`
+* __Li Yim AYF__, Duijvis NW, Zhao J, de Jonge WJ, D’Haens GRAM, Mannens MMAM, et al.: Peripheral blood methylation profiling of female Crohn’s disease patients. Clin Epigenetics 2016, 8:65.
 
-## Computer languages
+## Skills
+
+### Computer languages
 
 | R | Advanced | Have extensive experience using R as my daily driver for data analyses and visualization. |
 | Python | Intermediate | Have taken several courses using Python for machine learning and data wrangling. |
@@ -80,7 +80,8 @@ Best oral presentation, 5th Science Meeting Clinical Genetics, *Academic Medical
 | C/C++ | Novice | Have taken a few courses in C/C++. |
 | Java | Novice | Have taken a course in Java. |
 
-## Software
+
+### Software
 
 | Docker | Can run containers. |
 | Inkscape | Can generate publication-ready figures. |
@@ -88,7 +89,7 @@ Best oral presentation, 5th Science Meeting Clinical Genetics, *Academic Medical
 | Adobe Photoshop | Can perform some basic editing. |
 
 
-## Languages
+### Languages
 
 | English | Fluent |
 | Dutch | Fluent |
