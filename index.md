@@ -3,7 +3,7 @@ layout: cv
 title: Andrew Li Yim's CV
 ---
 # Andrew Yung Fong Li Yim
-Bioinformatician.
+Bioinformatician. Data scientist.
 
 <div id="webaddress">
 <a href="https://twitter.com/ndly91">Twitter</a>
@@ -18,30 +18,6 @@ Bioinformatician.
 
 Bioinformatics, transcriptomics, epigenomics, data science.
 
-## Software
-
-* Inkscape: Can generate publication-ready figures.
-* Adobe Illustrator: Can generate publication-ready figures.
-* Adobe Photoshop: Can do basic editing.
-
-## Computer languages
-
-* R: Can import, parse, debug and perform extensive analyses and visualization.
-* Python: Can import, parse and perform minor analyses.
-* Perl: Can import and parse data.
-* MATLAB/Octave: Can import and perform basic analyses.
-* Bash: Can perform basic data-wrangling and piping.
-* Java: Can read and modify small parts of existing code.
-* C/C++: Can read and modify small parts of existing code.
-
-## Languages
-
-* English: Fluent
-* Dutch: Fluent
-* Mandarin: Intermediate
-* French: Intermediate
-* German: Intermediate
-* Mauritian Creole: Intermediate
 
 ## Research interests
 
@@ -92,6 +68,33 @@ Best oral presentation, 5th Science Meeting Clinical Genetics, *Academic Medical
 
 `2018`
 * __Li Yim AYF__, de Bruyn JR, Duijvis NW, Sharp C, Ferrero E, de Jonge WJ, et al.: A distinct epigenetic profile distinguishes stenotic from non-inflamed fibroblasts in the ileal mucosa of Crohn’s disease patients. PLoS One 2018.
+
+## Software
+
+* Inkscape: Can generate publication-ready figures.
+* Adobe Illustrator: Can generate publication-ready figures.
+* Adobe Photoshop: Can do basic editing.
+
+
+## Computer languages
+
+* R: Can import, parse, debug and perform extensive analyses and visualization.
+* Python: Can import, parse and perform minor analyses.
+* Perl: Can import and parse data.
+* MATLAB/Octave: Can import and perform basic analyses.
+* Bash: Can perform basic data-wrangling and piping.
+* Java: Can read and modify small parts of existing code.
+* C/C++: Can read and modify small parts of existing code.
+
+
+## Languages
+
+* English: Fluent
+* Dutch: Fluent
+* Mandarin: Intermediate
+* French: Intermediate
+* German: Intermediate
+* Mauritian Creole: Intermediate
 
 <!-- ### Footer
 
