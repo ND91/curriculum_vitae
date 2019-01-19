@@ -1,91 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrew Li Yim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrew Yung Fong Li Yim
+Bioinformatician.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://twitter.com/ndly91">Twitter</a>
+  | <a href="https://www.linkedin.com/in/andrew-li-yim-840a10a0/">LinkedIn</a>
+  | <a href="https://www.researchgate.net/profile/Andrew_Li_Yim">ResearchGate</a>
+  | <a href="https://scholar.google.nl/citations?view_op=list_works&hl=en&user=4I7rgpUAAAAJ">Google Scholar</a>
+  | <a href="https://orcid.org/0000-0002-0754-0953">ORCID</a>
+  | <a href="https://github.com/ND91">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+PhD student at the Amsterdam University Medical Centers, University of Amsterdam and GlaxoSmithKline.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Bioinformatics, transcriptomics, epigenomics, data science.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Inflammatory bowel diseases, rheumatoid arthritis, integration of epigenetics and transcriptomics.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2009 - June 2012`
+__University College Utrecht, Utrecht University, Utrecht, the Netherlands.__
+*BSc Liberal Arts and Sciences*
+* Major: Sciences (Molecular cell biology and Mathematics).
+* Minor: Social sciences (Law).
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2011 - December 2011`
+__Chinese University of Hong Kong, Hong Kong S.A.R., China.__
+*Exchange semester.*
 
-- Sizar
+`September 2012 - April 2015`
+__Utrecht University, Utrecht, the Netherlands.__
+*MSc Biology, program: 'Molecular and Cellular Life Sciences'*
+* Major internship at the Department of Prokaryotic Microbiology.
+* Minor internship at the Department of Theoretical Biology and Bioinformatics.
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`June 2015 - present`
+__Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands__
+__GlaxoSmithKline, Stevenage, United Kingdom__
+*PhD, program: ['EPIMAC'](https://cordis.europa.eu/project/rcn/193846/factsheet/en)
+* Field of expertise: Bioinformatic analysis and integration of high-dimensional data.
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2015`
+Second best poster prize, Epigenomics of Common Diseases, *Wellcome Genome Campus*, Hinxton, Cambridge, United Kingdom.
 
-Associate, *French Academy of Science*, Paris, France
+`2016`
+Runner-up poster prize, Epigenomics of Common Diseases, *Wellcome Genome Campus*, Hinxton, Cambridge, United Kingdom.
 
+`2017`
+Best oral presentation, 5th Science Meeting Clinical Genetics, *Academic Medical Center*, Amsterdam, the Netherlands.
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+* __Li Yim AYF__, Duijvis NW, Zhao J, de Jonge WJ, D’Haens GRAM, Mannens MMAM, et al.: Peripheral blood methylation profiling of female Crohn’s disease patients. Clin Epigenetics 2016, 8:65.
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+* __Li Yim AYF__, de Bruyn JR, Duijvis NW, Sharp C, Ferrero E, de Jonge WJ, et al.: A distinct epigenetic profile distinguishes stenotic from non-inflamed fibroblasts in the ileal mucosa of Crohn’s disease patients. PLoS One 2018.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2019 -->
 
 
