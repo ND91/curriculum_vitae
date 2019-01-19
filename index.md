@@ -62,70 +62,55 @@ Second best poster prize, Epigenomics of Common Diseases, *Wellcome Genome Campu
 
 ## Publications
 
-`2018`
-* __Li Yim AYF__, de Bruyn JR, Duijvis NW, Sharp C, Ferrero E, de Jonge WJ, et al.: A distinct epigenetic profile distinguishes stenotic from non-inflamed fibroblasts in the ileal mucosa of Crohn’s disease patients. PLoS One 2018.
+* [__Li Yim AYF__, de Bruyn JR, Duijvis NW, Sharp C, Ferrero E, de Jonge WJ, et al.: A distinct epigenetic profile distinguishes stenotic from non-inflamed fibroblasts in the ileal mucosa of Crohn’s disease patients. PLoS One 2018.](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-016-0230-5)
 
-`2016`
-* __Li Yim AYF__, Duijvis NW, Zhao J, de Jonge WJ, D’Haens GRAM, Mannens MMAM, et al.: Peripheral blood methylation profiling of female Crohn’s disease patients. Clin Epigenetics 2016, 8:65.
+* [__Li Yim AYF__, Duijvis NW, Zhao J, de Jonge WJ, D’Haens GRAM, Mannens MMAM, et al.: Peripheral blood methylation profiling of female Crohn’s disease patients. Clin Epigenetics 2016, 8:65.](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0209656)
 
 ## Skills
 
 ### Computer languages
 
-`Advanced`
 __R__ 
-* Have extensive experience using R as my daily driver for data analyses and visualization. 
+* Have used R as my daily driver for extensive data analyses and visualization. 
 
-`Intermediate`
 __Python__ 
-* Have taken several courses using Python for machine learning and data wrangling. 
+* Have used Python courses on machine learning and data wrangling. 
 
-`Intermediate`
 __Bash__
 * Have used Bash extensively for data preparation and wrangling.
 
-`Intermediate`
 __Perl__
 * Have used Perl extensively for data wrangling. 
 
-`Novice`
 __MATLAB/Octave__
-* Have taken few courses using MATLAB/Octave for data analysis and machine learning.
+* Have used MATLAB/Octave on occasion for data analysis and machine learning.
 
-`Novice`
 __C/C++__
-* Have taken a few courses in C/C++.
+* Have used C/C++ in a few courses.
 
-`Novice`
 __Java__
-* Have taken a course in Java.
+* Have used Java in a course.
 
 
 ### Software
 
-`Advanced`
-__Inkscape__
-Can generate publication-ready figures. 
-
-`Advanced`
-__Adobe Illustrator__
-Can generate publication-ready figures. 
-
-`Advanced`
-__Adobe Photoshop__ 
-Can perform some basic editing. 
-
-`Intermediate`
-__OpenNebula__
-Can use the API to spin up and shutdown virtual machines on SURFSARA's High Performance Computing Cloud facility.
-
-`Novice`
 __Docker__
-Can run containers.
+* Can run containers.
 
-`Novice`
 __Ansible__
-Can perform some basic maintenance across servers.
+* Can perform some basic maintenance across servers.
+
+__OpenNebula__
+* Can use the API to spin up and shutdown virtual machines on [SURFSARA's HPC Cloud](https://userinfo.surfsara.nl/systems/hpc-cloud).
+
+__Inkscape__
+* Can generate publication-ready figures. 
+
+__Adobe Illustrator__
+* Can generate publication-ready figures. 
+
+__Adobe Photoshop__ 
+* Can perform some basic editing. 
 
 
 ### Languages
