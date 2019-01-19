@@ -14,17 +14,36 @@ Bioinformatician.
   | <a href="https://github.com/ND91">GitHub</a>
 </div>
 
-
-## Currently
-
-PhD student at the Amsterdam University Medical Centers, University of Amsterdam and GlaxoSmithKline.
-
-### Specialized in
+## Specialization
 
 Bioinformatics, transcriptomics, epigenomics, data science.
 
+## Software
 
-### Research interests
+* Inkscape: Can generate publication-ready figures.
+* Adobe Illustrator: Can generate publication-ready figures.
+* Adobe Photoshop: Can do basic editing.
+
+## Computer languages
+
+* R: Can import, parse, debug and perform extensive analyses and visualization.
+* Python: Can import, parse and perform minor analyses.
+* Perl: Can import and parse data.
+* MATLAB/Octave: Can import and perform basic analyses.
+* Bash: Can perform basic data-wrangling and piping.
+* Java: Can read and modify small parts of existing code.
+* C/C++: Can read and modify small parts of existing code.
+
+## Languages
+
+* English: Fluent
+* Dutch: Fluent
+* Mandarin: Intermediate
+* French: Intermediate
+* German: Intermediate
+* Mauritian Creole: Intermediate
+
+## Research interests
 
 Inflammatory bowel diseases, rheumatoid arthritis, integration of epigenetics and transcriptomics.
 
@@ -68,12 +87,12 @@ Best oral presentation, 5th Science Meeting Clinical Genetics, *Academic Medical
 
 ## Publications
 
+`2016`
 * __Li Yim AYF__, Duijvis NW, Zhao J, de Jonge WJ, D’Haens GRAM, Mannens MMAM, et al.: Peripheral blood methylation profiling of female Crohn’s disease patients. Clin Epigenetics 2016, 8:65.
 
+`2018`
 * __Li Yim AYF__, de Bruyn JR, Duijvis NW, Sharp C, Ferrero E, de Jonge WJ, et al.: A distinct epigenetic profile distinguishes stenotic from non-inflamed fibroblasts in the ileal mucosa of Crohn’s disease patients. PLoS One 2018.
 
 <!-- ### Footer
 
 Last updated: January 2019 -->
-
-
