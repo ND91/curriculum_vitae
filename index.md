@@ -103,17 +103,29 @@ __Java__
 
 ### Software
 
-__Docker__
-Can run containers.
-
+`Advanced`
 __Inkscape__
 Can generate publication-ready figures. 
 
+`Advanced`
 __Adobe Illustrator__
 Can generate publication-ready figures. 
 
+`Advanced`
 __Adobe Photoshop__ 
 Can perform some basic editing. 
+
+`Intermediate`
+__OpenNebula__
+Can use the API to spin up and shutdown virtual machines on SURFSARA's High Performance Computing Cloud facility.
+
+`Novice`
+__Docker__
+Can run containers.
+
+`Novice`
+__Ansible__
+Can perform some basic maintenance across servers.
 
 
 ### Languages
