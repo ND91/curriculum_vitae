@@ -105,10 +105,13 @@ __Java__
 
 __Docker__
 Can run containers.
+
 __Inkscape__
 Can generate publication-ready figures. 
+
 __Adobe Illustrator__
 Can generate publication-ready figures. 
+
 __Adobe Photoshop__ 
 Can perform some basic editing. 
 
@@ -117,14 +120,19 @@ Can perform some basic editing.
 
 `Fluent`
 __English__
+
 `Fluent`
 __Dutch__ 
+
 `Intermediate`
 __Mandarin__
+
 `Intermediate`
 __French__
+
 `Intermediate`
 __German__
+
 `Intermediate`
 __Mauritian Creole__
 
