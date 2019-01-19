@@ -72,31 +72,61 @@ Second best poster prize, Epigenomics of Common Diseases, *Wellcome Genome Campu
 
 ### Computer languages
 
-| R | Advanced | Have extensive experience using R as my daily driver for data analyses and visualization. |
-| Python | Intermediate | Have taken several courses using Python for machine learning and data wrangling. |
-| Bash | Intermediate | Have used Bash extensively for data preparation and wrangling |
-| Perl | Intermediate | Have used Perl extensively for data wrangling. |
-| MATLAB/Octave | Novice | Have taken few courses using MATLAB/Octave for data analysis and machine learning |
-| C/C++ | Novice | Have taken a few courses in C/C++. |
-| Java | Novice | Have taken a course in Java. |
+`Advanced`
+__R__ 
+* Have extensive experience using R as my daily driver for data analyses and visualization. 
+
+`Intermediate`
+__Python__ 
+* Have taken several courses using Python for machine learning and data wrangling. 
+
+`Intermediate`
+__Bash__
+* Have used Bash extensively for data preparation and wrangling.
+
+`Intermediate`
+__Perl__
+* Have used Perl extensively for data wrangling. 
+
+`Novice`
+__MATLAB/Octave__
+* Have taken few courses using MATLAB/Octave for data analysis and machine learning.
+
+`Novice`
+__C/C++__
+* Have taken a few courses in C/C++.
+
+`Novice`
+__Java__
+* Have taken a course in Java.
 
 
 ### Software
 
-| Docker | Can run containers. |
-| Inkscape | Can generate publication-ready figures. |
-| Adobe Illustrator | Can generate publication-ready figures. |
-| Adobe Photoshop | Can perform some basic editing. |
+__Docker__
+Can run containers.
+__Inkscape__
+Can generate publication-ready figures. 
+__Adobe Illustrator__
+Can generate publication-ready figures. 
+__Adobe Photoshop__ 
+Can perform some basic editing. 
 
 
 ### Languages
 
-| English | Fluent |
-| Dutch | Fluent |
-| Mandarin | Intermediate |
-| French | Intermediate |
-| German | Intermediate |
-| Mauritian Creole | Intermediate |
+__English__
+* Fluent
+__Dutch__ 
+* Fluent
+__Mandarin__
+* Intermediate
+__French__
+* Intermediate
+__German__
+* Intermediate
+__Mauritian Creole__
+* Intermediate
 
 <!-- ### Footer
 
