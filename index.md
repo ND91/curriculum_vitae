@@ -115,18 +115,18 @@ Can perform some basic editing.
 
 ### Languages
 
+`Fluent`
 __English__
-* Fluent
+`Fluent`
 __Dutch__ 
-* Fluent
+`Intermediate`
 __Mandarin__
-* Intermediate
+`Intermediate`
 __French__
-* Intermediate
+`Intermediate`
 __German__
-* Intermediate
+`Intermediate`
 __Mauritian Creole__
-* Intermediate
 
 <!-- ### Footer
 
