@@ -21,7 +21,7 @@ Bioinformatics, transcriptomics, epigenomics, data science.
 
 ## Research interests
 
-Inflammatory bowel diseases, rheumatoid arthritis, integration of epigenetics and transcriptomics.
+Inflammatory bowel diseases, rheumatoid arthritis, integration of epigenetics and transcriptomics, single-cell analyses.
 
 
 ## Education
@@ -69,32 +69,33 @@ Best oral presentation, 5th Science Meeting Clinical Genetics, *Academic Medical
 `2018`
 * __Li Yim AYF__, de Bruyn JR, Duijvis NW, Sharp C, Ferrero E, de Jonge WJ, et al.: A distinct epigenetic profile distinguishes stenotic from non-inflamed fibroblasts in the ileal mucosa of Crohn’s disease patients. PLoS One 2018.
 
-## Software
-
-* Inkscape: Can generate publication-ready figures.
-* Adobe Illustrator: Can generate publication-ready figures.
-* Adobe Photoshop: Can do basic editing.
-
 
 ## Computer languages
 
-* R: Can import, parse, debug and perform extensive analyses and visualization.
-* Python: Can import, parse and perform minor analyses.
-* Perl: Can import and parse data.
-* MATLAB/Octave: Can import and perform basic analyses.
-* Bash: Can perform basic data-wrangling and piping.
-* Java: Can read and modify small parts of existing code.
-* C/C++: Can read and modify small parts of existing code.
+| R | Advanced | Have extensive experience using R as my daily driver for data analyses and visualization. |
+| Python | Intermediate | Have taken several courses using Python for machine learning and data wrangling. |
+| Bash | Intermediate | Have used Bash extensively for data preparation and wrangling |
+| Perl | Intermediate | Have used Perl extensively for data wrangling. |
+| MATLAB/Octave | Novice | Have taken few courses using MATLAB/Octave for data analysis and machine learning |
+| C/C++ | Novice | Have taken a few courses in C/C++. |
+| Java | Novice | Have taken a course in Java. |
+
+## Software
+
+| Docker | Can run containers. |
+| Inkscape | Can generate publication-ready figures. |
+| Adobe Illustrator | Can generate publication-ready figures. |
+| Adobe Photoshop | Can perform some basic editing. |
 
 
 ## Languages
 
-* English: Fluent
-* Dutch: Fluent
-* Mandarin: Intermediate
-* French: Intermediate
-* German: Intermediate
-* Mauritian Creole: Intermediate
+| English | Fluent |
+| Dutch | Fluent |
+| Mandarin | Intermediate |
+| French | Intermediate |
+| German | Intermediate |
+| Mauritian Creole | Intermediate |
 
 <!-- ### Footer
 
