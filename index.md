@@ -71,25 +71,25 @@ Second best poster prize, Epigenomics of Common Diseases, *Wellcome Genome Campu
 ### Computer languages
 
 __R__ 
-* Have used R as my daily driver for extensive data analyses and visualization. 
+* Daily driver for extensive data analyses and visualization. 
 
 __Python__ 
-* Have used Python courses on machine learning and data wrangling. 
+* Extensively used for courses on machine learning and data wrangling. 
 
 __Bash__
-* Have used Bash extensively for data preparation and wrangling.
+* Extensively used for data preparation and wrangling.
 
 __Perl__
-* Have used Perl extensively for data wrangling. 
+* Extensively used for data wrangling. 
 
 __MATLAB/Octave__
-* Have used MATLAB/Octave on occasion for data analysis and machine learning.
+* Used on occasion for data analysis and machine learning.
 
 __C/C++__
-* Have used C/C++ in a few courses.
+* Used for a few courses.
 
 __Java__
-* Have used Java in a course.
+* Used in a course.
 
 
 ### Software
