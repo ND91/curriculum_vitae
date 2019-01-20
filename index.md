@@ -62,9 +62,9 @@ Second best poster prize, Epigenomics of Common Diseases, *Wellcome Genome Campu
 
 ## Publications
 
-* [__Li Yim AYF__, de Bruyn JR, Duijvis NW, Sharp C, Ferrero E, de Jonge WJ, et al.: A distinct epigenetic profile distinguishes stenotic from non-inflamed fibroblasts in the ileal mucosa of Crohn’s disease patients. PLoS One 2018.](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-016-0230-5)
+* [__Li Yim AYF__, de Bruyn JR, Duijvis NW, Sharp C, Ferrero E, de Jonge WJ, et al.: A distinct epigenetic profile distinguishes stenotic from non-inflamed fibroblasts in the ileal mucosa of Crohn’s disease patients. PLoS One 2018.](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0209656)
 
-* [__Li Yim AYF__, Duijvis NW, Zhao J, de Jonge WJ, D’Haens GRAM, Mannens MMAM, et al.: Peripheral blood methylation profiling of female Crohn’s disease patients. Clin Epigenetics 2016, 8:65.](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0209656)
+* [__Li Yim AYF__, Duijvis NW, Zhao J, de Jonge WJ, D’Haens GRAM, Mannens MMAM, et al.: Peripheral blood methylation profiling of female Crohn’s disease patients. Clin Epigenetics 2016, 8:65.](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-016-0230-5)
 
 ## Skills
 
